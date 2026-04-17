@@ -25,11 +25,11 @@ This system simulates an expert's logic by:
    git clone [https://github.com/YourUsername/PC-Expert-Diagnosis-System.git](https://github.com/YourUsername/PC-Expert-Diagnosis-System.git)
 
 2. **Run the system:**
-  ```bash
-  python knowledge_system.py
+   ```bash
+   python knowledge_system.py
 
 3. **Interact:**
-  Follow the on-screen menu to start diagnosing or updating the system.
+   Follow the on-screen menu to start diagnosing or updating the system.
 
 ## 📝 Key Features
 . **Smart Matching:** Can identify potential issues even if the user's description isn't an exact match.
