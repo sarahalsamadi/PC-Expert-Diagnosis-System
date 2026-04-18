@@ -22,7 +22,7 @@ This system simulates an expert's logic by:
 ## ⚙️ Installation & Usage
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YourUsername/PC-Expert-Diagnosis-System.git](https://github.com/YourUsername/PC-Expert-Diagnosis-System.git)
+   git clone [https://github.com/sarahalsamadi/PC-Expert-Diagnosis-System.git](https://github.com/sarahalsamadi/PC-Expert-Diagnosis-System.git)
 
 2. **Run the system:**
    ```bash
